@@ -1,0 +1,128 @@
+{
+  "name_and_link": [
+    "Abhishek Kumar",
+    "https://github.com/AbhishekPrajapati3/"
+  ],
+  "designation": [
+    "Pursuing MCA",
+    "Flutter Developer."
+  ],
+  "resume_download_link": "https://drive.google.com/file/d/1vyr8o8iPnMhWzKCWY_0vHoad70ts7mok/view?usp=sharing",
+  "social_media": {
+    "1": [
+      "https://github.com/AbhishekPrajapati3/",
+      "github"
+    ],
+    "2": [
+      "https://leetcode.com/danger-ahead/",
+      "leetcode"
+    ],
+    "3": [
+      "https://www.linkedin.com/in/abhishek-kumarprajapati/",
+      "linkedin"
+    ],
+    "4": [
+      "https://stackoverflow.com/users/25782809/abhishek-prajapati",
+      "stackoverflow"
+    ]
+  },
+  "contact_me": {
+    "location": "Ghaziabad, India",
+    "open_for_opportunities": "Yes",
+    "picture": "picture.png"
+  },
+  "about": "A passionate Software Developer 🚀 |",
+  "bio": "MCA student with a strong foundation in programming languages such as Python and Dart. I specialize in mobile app development using Flutter and have a good understanding of the MVC design pattern. I'm familiar with version control using Git and have worked with databases like MySQL,Sqflite,firesotre etc. I'm eager to learn and contribute to innovative projects in the tech field.",
+  "what_i_do": {
+    "tools": [
+      "flutter.png",
+      "dart.png",
+      "c.png",
+      "cpp.png",
+      "java.png",
+      "python.png",
+      "git.png"
+
+
+    ],
+    "proficiency": [
+      "Flutter--80",
+      "C/C++/java/Python--60",
+      "Dart--80",
+      "Git-Github--70",
+      "Firebase--60"
+    ]
+  },
+  "education": {
+    "1": {
+      "institute": "Hi-Tech Institute of Engineering & Technology",
+      "location": "Ghaziabad",
+      "years": "2023 - 2025",
+      "description": "MCA",
+      "grades": "8.04 SGPA",
+      "logo": "hietLogo.png"
+    },
+    "2": {
+      "institute": "DAV College Muzaffarnagar",
+      "location": "Muzaffarnagar",
+      "years": "2019 - 2022",
+      "description": "BCA",
+      "grades": "66%",
+      "logo": "davCollegeLogo.png"
+    }
+  },
+  "experience": {
+    "1": {
+      "name": "ITECONIC",
+      "role": "Mobile-App Intern (Flutter)",
+      "period": "May-2024 - Aug-2024",
+      "description": "Work with flutter team.",
+      "image_name": "IteconicLogo.png"
+    }
+  },
+  "projects": {
+    "1": {
+      "name": "MyChitra",
+      "tech_stack_used": "Flutter",
+      "description": "May 2024 - Jun 2024\nChitra is a sleek wallpaper app designed to bring creativity and inspiration to your mobile device. With Chitra, you can easily search for stunning photos and download them to use as wallpapers. Whether you're looking for nature landscapes, abstract art, or vibrant patterns, Chitra has a vast collection to suit every style and mood. Personalize your device with beautiful wallpapers from Chitra and make your screen truly unique",
+      "general_or_github_link": ""
+    },
+    "2": {
+      "name": "Calculator",
+      "tech_stack_used": "Flutter",
+      "description": "Calculator app based on Soft UI (neumorphism), having simple and advanced modes. Also has a history section to save previously performed operations (using FLUTTER SQLITE). Supports 3 theme modes - system default, light and dark. State management approach used - RIVERPOD. PUBLISHED ON F-DROID.",
+      "general_or_github_link": ""
+    },
+    "3": {
+      "name": "HelpHub",
+      "tech_stack_used": "flutter,firebase ",
+      "description": " Flutter-based app and web designed to connect students and part-time workers with flexible, domestic-level freelancing opportunities. Built on Flutter for seamless cross-platform performance and integrated with Firebase for secure, scalable data management, HelpHub makes it easy for users to find local gigs that fit their skills, schedule, and preferences.",
+      "general_or_github_link": ""
+    },
+    "4": {
+      "name": "Dictionary",
+      "tech_stack_used": "Flutter, SQLite, REST APIs",
+      "description": "Multi-language dictionary app with support for audio pronunciation (English only).",
+      "general_or_github_link": ""
+    },
+    "5": {
+      "name": "TaskBird",
+      "tech_stack_used": "Flutter, SqfLite",
+      "description": "TaskBird is a Flutter-based to-do application that combines the BLoC (Business Logic Component) pattern for efficient state management with SQLite for robust offline data storage. This combination allows TaskBird to provide a responsive, high-performance experience for adding, updating, and deleting tasks without needing an internet connection.",
+      "general_or_github_link": ""
+    },
+    "7": {
+      "name": "TechShield",
+      "tech_stack_used": "Flutter",
+      "description": " Built with an intuitive UI, TechShield enables businesses to manage customer data, track leads, and streamline communication effectively. Key features include client data organization, task and lead management, real-time notifications, and analytics dashboards that offer valuable insights into sales performance and customer engagement. Integrated with Firebase for secure and scalable data storage",
+      "general_or_github_link": ""
+    }
+  },
+  "achievements": {
+    "1": {
+      "description": "",
+      "link": ""
+    }
+
+  }
+}
